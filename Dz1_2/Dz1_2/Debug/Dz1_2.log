@@ -1,0 +1,15 @@
+﻿  Dz1_2.cpp
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_1.h(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,16): warning C4566: character represented by universal-character-name '\u00D0' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,16): warning C4566: character represented by universal-character-name '\u00B9' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u00D0' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u00BD' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u00D1' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u0192' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u00B4' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u00BE' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u0081' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u0152' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(213,49): warning C4566: character represented by universal-character-name '\u00BA' cannot be represented in the current code page (1251)
+C:\Users\Stefan\Desktop\Dz1_2\Dz1_2\h_2.h(195): warning C4715: 'addToLugDatabase': not all control paths return a value
+  Dz1_2.vcxproj -> C:\Users\Stefan\Desktop\Dz1_2\Debug\Dz1_2.exe

@@ -1,0 +1,5 @@
+321  10.10.2019  12-12   Ufa            Petrov              1  19   
+320  20.10.2019  12-30   Sochi          Ivanov              2  30,4 
+549  09.10.2019  15-00   Tokyo          Tesla               2  15   
+672  10.10.2019  21-00   Moscow         Sidorov             1  23   
+329  12.09.2019  09-15   Barnaul        Pascal              4  44   
